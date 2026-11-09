@@ -199,3 +199,6 @@ This repository serves as the official landing page for NeoRAGEx. The software i
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of NeoRAGEx today!**
+
+---
+**Last updated:** 2026-11-09 14:37:52 UTC
